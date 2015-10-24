@@ -1,0 +1,4 @@
+# AdapterViewFlipperDemo
+android控件AdapterViewFlipper的小程序
+具体功能：简单说为图片查看器，可以点击查看上一张图片，查看下一张图片和自动播放
+
